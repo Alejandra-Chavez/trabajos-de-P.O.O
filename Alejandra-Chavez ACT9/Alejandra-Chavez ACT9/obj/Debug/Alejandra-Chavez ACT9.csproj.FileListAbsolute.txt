@@ -1,0 +1,7 @@
+C:\Users\aleja\OneDrive\Documentos\C#\Alejandra-Chavez ACT9\Alejandra-Chavez ACT9\bin\Debug\Alejandra-Chavez ACT9.exe.config
+C:\Users\aleja\OneDrive\Documentos\C#\Alejandra-Chavez ACT9\Alejandra-Chavez ACT9\bin\Debug\Alejandra-Chavez ACT9.exe
+C:\Users\aleja\OneDrive\Documentos\C#\Alejandra-Chavez ACT9\Alejandra-Chavez ACT9\bin\Debug\Alejandra-Chavez ACT9.pdb
+C:\Users\aleja\OneDrive\Documentos\C#\Alejandra-Chavez ACT9\Alejandra-Chavez ACT9\obj\Debug\Alejandra-Chavez ACT9.csproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Documentos\C#\Alejandra-Chavez ACT9\Alejandra-Chavez ACT9\obj\Debug\Alejandra-Chavez ACT9.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Documentos\C#\Alejandra-Chavez ACT9\Alejandra-Chavez ACT9\obj\Debug\Alejandra-Chavez ACT9.exe
+C:\Users\aleja\OneDrive\Documentos\C#\Alejandra-Chavez ACT9\Alejandra-Chavez ACT9\obj\Debug\Alejandra-Chavez ACT9.pdb
