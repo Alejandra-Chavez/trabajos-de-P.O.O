@@ -1,0 +1,7 @@
+D:\Alejandra-Chavez ACT11\Alejandra-Chavez ACT11\obj\Debug\Alejandra-Chavez ACT11.csproj.AssemblyReference.cache
+D:\Alejandra-Chavez ACT11\Alejandra-Chavez ACT11\obj\Debug\Alejandra-Chavez ACT11.csproj.CoreCompileInputs.cache
+D:\Alejandra-Chavez ACT11\Alejandra-Chavez ACT11\bin\Debug\Alejandra-Chavez ACT11.exe.config
+D:\Alejandra-Chavez ACT11\Alejandra-Chavez ACT11\bin\Debug\Alejandra-Chavez ACT11.exe
+D:\Alejandra-Chavez ACT11\Alejandra-Chavez ACT11\bin\Debug\Alejandra-Chavez ACT11.pdb
+D:\Alejandra-Chavez ACT11\Alejandra-Chavez ACT11\obj\Debug\Alejandra-Chavez ACT11.exe
+D:\Alejandra-Chavez ACT11\Alejandra-Chavez ACT11\obj\Debug\Alejandra-Chavez ACT11.pdb
