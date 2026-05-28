@@ -1,0 +1,7 @@
+E:\Proyectos C#\Alejandra-Chavez ACT13\Punto4\obj\Debug\Punto4.csproj.AssemblyReference.cache
+E:\Proyectos C#\Alejandra-Chavez ACT13\Punto4\obj\Debug\Punto4.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\Alejandra-Chavez ACT13\Punto4\bin\Debug\Punto4.exe.config
+E:\Proyectos C#\Alejandra-Chavez ACT13\Punto4\bin\Debug\Punto4.exe
+E:\Proyectos C#\Alejandra-Chavez ACT13\Punto4\bin\Debug\Punto4.pdb
+E:\Proyectos C#\Alejandra-Chavez ACT13\Punto4\obj\Debug\Punto4.exe
+E:\Proyectos C#\Alejandra-Chavez ACT13\Punto4\obj\Debug\Punto4.pdb
