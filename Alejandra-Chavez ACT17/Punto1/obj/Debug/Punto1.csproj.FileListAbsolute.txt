@@ -1,0 +1,9 @@
+C:\Users\alumno.ET26\Documents\Alejandra-Chavez ACT17\Punto1\obj\Debug\Punto1.csproj.AssemblyReference.cache
+C:\Users\alumno.ET26\Documents\Alejandra-Chavez ACT17\Punto1\obj\Debug\Punto1.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\Alejandra-Chavez ACT17\Punto1\bin\Debug\Punto1.exe.config
+D:\Proyectos C#\Alejandra-Chavez ACT17\Punto1\bin\Debug\Punto1.exe
+D:\Proyectos C#\Alejandra-Chavez ACT17\Punto1\bin\Debug\Punto1.pdb
+D:\Proyectos C#\Alejandra-Chavez ACT17\Punto1\obj\Debug\Punto1.csproj.AssemblyReference.cache
+D:\Proyectos C#\Alejandra-Chavez ACT17\Punto1\obj\Debug\Punto1.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\Alejandra-Chavez ACT17\Punto1\obj\Debug\Punto1.exe
+D:\Proyectos C#\Alejandra-Chavez ACT17\Punto1\obj\Debug\Punto1.pdb
