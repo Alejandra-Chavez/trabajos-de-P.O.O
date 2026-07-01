@@ -1,0 +1,7 @@
+C:\Users\aleja\OneDrive\Documentos\Punto 1\Punto 2\bin\Debug\Punto 2.exe.config
+C:\Users\aleja\OneDrive\Documentos\Punto 1\Punto 2\bin\Debug\Punto 2.exe
+C:\Users\aleja\OneDrive\Documentos\Punto 1\Punto 2\bin\Debug\Punto 2.pdb
+C:\Users\aleja\OneDrive\Documentos\Punto 1\Punto 2\obj\Debug\Punto 2.csproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Documentos\Punto 1\Punto 2\obj\Debug\Punto 2.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Documentos\Punto 1\Punto 2\obj\Debug\Punto 2.exe
+C:\Users\aleja\OneDrive\Documentos\Punto 1\Punto 2\obj\Debug\Punto 2.pdb
