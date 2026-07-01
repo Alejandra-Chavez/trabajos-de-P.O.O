@@ -1,0 +1,7 @@
+D:\Proyectos C#\Alejandra-Chavez ACT20\Punto 2\bin\Debug\Punto 2.exe.config
+D:\Proyectos C#\Alejandra-Chavez ACT20\Punto 2\bin\Debug\Punto 2.exe
+D:\Proyectos C#\Alejandra-Chavez ACT20\Punto 2\bin\Debug\Punto 2.pdb
+D:\Proyectos C#\Alejandra-Chavez ACT20\Punto 2\obj\Debug\Punto 2.csproj.AssemblyReference.cache
+D:\Proyectos C#\Alejandra-Chavez ACT20\Punto 2\obj\Debug\Punto 2.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\Alejandra-Chavez ACT20\Punto 2\obj\Debug\Punto 2.exe
+D:\Proyectos C#\Alejandra-Chavez ACT20\Punto 2\obj\Debug\Punto 2.pdb

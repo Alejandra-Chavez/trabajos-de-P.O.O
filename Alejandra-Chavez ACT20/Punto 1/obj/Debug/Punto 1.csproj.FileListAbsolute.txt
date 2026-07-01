@@ -1,0 +1,13 @@
+D:\Proyectos C#\Punto 1\Punto 1\obj\Debug\Punto 1.csproj.AssemblyReference.cache
+D:\Proyectos C#\Punto 1\Punto 1\obj\Debug\Punto 1.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\Alejandra-Chavez ACT20\Punto 1\obj\Debug\Punto 1.csproj.AssemblyReference.cache
+E:\Proyectos C#\Alejandra-Chavez ACT20\Punto 1\obj\Debug\Punto 1.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\Alejandra-Chavez ACT20\Punto 1\bin\Debug\Punto 1.exe.config
+E:\Proyectos C#\Alejandra-Chavez ACT20\Punto 1\bin\Debug\Punto 1.exe
+E:\Proyectos C#\Alejandra-Chavez ACT20\Punto 1\bin\Debug\Punto 1.pdb
+E:\Proyectos C#\Alejandra-Chavez ACT20\Punto 1\obj\Debug\Punto 1.exe
+E:\Proyectos C#\Alejandra-Chavez ACT20\Punto 1\obj\Debug\Punto 1.pdb
+D:\Proyectos C#\Alejandra-Chavez ACT20\Punto 1\obj\Debug\Punto 1.csproj.AssemblyReference.cache
+D:\Proyectos C#\Alejandra-Chavez ACT20\Punto 1\obj\Debug\Punto 1.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\Alejandra-Chavez ACT20\Punto 1\obj\Debug\Punto 1.exe
+D:\Proyectos C#\Alejandra-Chavez ACT20\Punto 1\obj\Debug\Punto 1.pdb
