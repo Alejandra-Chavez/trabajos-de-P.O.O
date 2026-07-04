@@ -1,0 +1,7 @@
+D:\Proyectos C#\Alejandra-Chavez ACT22\Punto 3\bin\Debug\Punto 3.exe.config
+D:\Proyectos C#\Alejandra-Chavez ACT22\Punto 3\bin\Debug\Punto 3.exe
+D:\Proyectos C#\Alejandra-Chavez ACT22\Punto 3\bin\Debug\Punto 3.pdb
+D:\Proyectos C#\Alejandra-Chavez ACT22\Punto 3\obj\Debug\Punto 3.csproj.AssemblyReference.cache
+D:\Proyectos C#\Alejandra-Chavez ACT22\Punto 3\obj\Debug\Punto 3.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\Alejandra-Chavez ACT22\Punto 3\obj\Debug\Punto 3.exe
+D:\Proyectos C#\Alejandra-Chavez ACT22\Punto 3\obj\Debug\Punto 3.pdb

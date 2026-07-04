@@ -1,0 +1,2 @@
+D:\Proyectos C#\Alejandra-Chavez ACT22\Punto 5\obj\Debug\Punto 5.csproj.AssemblyReference.cache
+D:\Proyectos C#\Alejandra-Chavez ACT22\Punto 5\obj\Debug\Punto 5.csproj.CoreCompileInputs.cache
