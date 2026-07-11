@@ -1,2 +1,7 @@
 D:\Proyectos C#\Alejandra-Chavez ACT22\Punto 5\obj\Debug\Punto 5.csproj.AssemblyReference.cache
 D:\Proyectos C#\Alejandra-Chavez ACT22\Punto 5\obj\Debug\Punto 5.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\Alejandra-Chavez ACT22\Punto 5\bin\Debug\Punto 5.exe.config
+D:\Proyectos C#\Alejandra-Chavez ACT22\Punto 5\bin\Debug\Punto 5.exe
+D:\Proyectos C#\Alejandra-Chavez ACT22\Punto 5\bin\Debug\Punto 5.pdb
+D:\Proyectos C#\Alejandra-Chavez ACT22\Punto 5\obj\Debug\Punto 5.exe
+D:\Proyectos C#\Alejandra-Chavez ACT22\Punto 5\obj\Debug\Punto 5.pdb
