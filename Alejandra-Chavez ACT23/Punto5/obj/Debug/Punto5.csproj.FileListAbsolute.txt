@@ -1,0 +1,7 @@
+D:\Proyectos C#\Punto1\Punto5\bin\Debug\Punto5.exe.config
+D:\Proyectos C#\Punto1\Punto5\bin\Debug\Punto5.exe
+D:\Proyectos C#\Punto1\Punto5\bin\Debug\Punto5.pdb
+D:\Proyectos C#\Punto1\Punto5\obj\Debug\Punto5.csproj.AssemblyReference.cache
+D:\Proyectos C#\Punto1\Punto5\obj\Debug\Punto5.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\Punto1\Punto5\obj\Debug\Punto5.exe
+D:\Proyectos C#\Punto1\Punto5\obj\Debug\Punto5.pdb
