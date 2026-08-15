@@ -1,0 +1,14 @@
+C:\Users\alumno.ET26\Documents\Punto7\Punto7\bin\Debug\Punto7.exe.config
+C:\Users\alumno.ET26\Documents\Punto7\Punto7\bin\Debug\Punto7.exe
+C:\Users\alumno.ET26\Documents\Punto7\Punto7\bin\Debug\Punto7.pdb
+C:\Users\alumno.ET26\Documents\Punto7\Punto7\obj\Debug\Punto7.csproj.AssemblyReference.cache
+C:\Users\alumno.ET26\Documents\Punto7\Punto7\obj\Debug\Punto7.csproj.CoreCompileInputs.cache
+C:\Users\alumno.ET26\Documents\Punto7\Punto7\obj\Debug\Punto7.exe
+C:\Users\alumno.ET26\Documents\Punto7\Punto7\obj\Debug\Punto7.pdb
+D:\Proyectos C#\Punto7\Punto7\bin\Debug\Punto7.exe.config
+D:\Proyectos C#\Punto7\Punto7\bin\Debug\Punto7.exe
+D:\Proyectos C#\Punto7\Punto7\bin\Debug\Punto7.pdb
+D:\Proyectos C#\Punto7\Punto7\obj\Debug\Punto7.csproj.AssemblyReference.cache
+D:\Proyectos C#\Punto7\Punto7\obj\Debug\Punto7.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\Punto7\Punto7\obj\Debug\Punto7.exe
+D:\Proyectos C#\Punto7\Punto7\obj\Debug\Punto7.pdb
