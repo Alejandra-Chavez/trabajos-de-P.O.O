@@ -1,0 +1,10 @@
+E:\Proyectos C#\Punto1\Punto5\bin\Debug\Punto5.exe.config
+E:\Proyectos C#\Punto1\Punto5\bin\Debug\Punto5.exe
+E:\Proyectos C#\Punto1\Punto5\bin\Debug\Punto5.pdb
+E:\Proyectos C#\Punto1\Punto5\obj\Debug\Punto5.csproj.AssemblyReference.cache
+E:\Proyectos C#\Punto1\Punto5\obj\Debug\Punto5.Form1.resources
+E:\Proyectos C#\Punto1\Punto5\obj\Debug\Punto5.Properties.Resources.resources
+E:\Proyectos C#\Punto1\Punto5\obj\Debug\Punto5.csproj.GenerateResource.cache
+E:\Proyectos C#\Punto1\Punto5\obj\Debug\Punto5.csproj.CoreCompileInputs.cache
+E:\Proyectos C#\Punto1\Punto5\obj\Debug\Punto5.exe
+E:\Proyectos C#\Punto1\Punto5\obj\Debug\Punto5.pdb
